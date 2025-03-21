@@ -29,7 +29,7 @@ const Home = () => {
       </div>
        
       </div>
-      <h3 className="text-2xl text-gray-500"> I am an aspiring Software Engineer from Uzbekistan.</h3>
+      <h3 className="text-2xl text-gray-500"> Passionate Full-Stack Developer with expertise in JavaScript and TypeScript. Dedicated to building scalable and efficient software solutions.</h3>
       
         <div className="flex gap-[40px]">
         <button className="bg-blue-500 text-white py-2 px-8 rounded-sm text-[17px] border border-blue-500 
